@@ -1,0 +1,14 @@
+{
+  "name": "conekta-node",
+  "version": "0.0.0",
+  "description": "This is an unofficial Conekta.io node library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "conekta"
+  ],
+  "author": "dfectuoso",
+  "license": "ISC"
+}
